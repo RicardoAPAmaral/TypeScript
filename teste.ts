@@ -1,6 +1,9 @@
-function somar(number1,number2){
+import funcoes from "./funcoes"
 
-console.log(number1+number2);
-}
+let nome:string 
+let array: number[]=[]
 
-somar(5,5)
+nome= "Ricardo"
+array.push(1)
+
+console.log(funcoes.somar(5,5));

@@ -1,0 +1,8 @@
+npx ts-node teste.ts
+tsc
+npm i -D ts-node
+tsc --init
+tsc teste.ts
+node teste.ts
+node -v  
+tsc -v   
