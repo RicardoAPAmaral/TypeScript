@@ -1,4 +1,5 @@
-function somar(number1:number,number2:number):number{
+//function somar(number1:number,number2:number):number{
+export function somar(number1:number,number2:number):number{
     return number1+number2
     }
 
